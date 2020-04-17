@@ -13,3 +13,8 @@ git reflog
 git reset
 git revent
 git restore
+
+git branch
+git branch название ветки
+git checkout название ветки
+
