@@ -2,7 +2,8 @@
 .gitignore
 
 git init
-
+git remote add original ссылка на репозиторий
+git remote -v
 git add
 git commit
 
