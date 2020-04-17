@@ -17,4 +17,5 @@ git restore
 git branch
 git branch название ветки
 git checkout название ветки
+git checkout -b название ветки
 
